@@ -1,6 +1,6 @@
 {
     "type": "esp32-fota-https",
-    "version": 2,
+    "version": 3,
     "host": "raw.githubusercontent.com",
     "port": 443,
     "bin": "/doroshenko-ai/camera/main/ESP32_HTTP_CLIENT_UART.ino.esp32.bin"
