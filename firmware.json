@@ -3,5 +3,5 @@
     "version": 2,
     "host": "raw.githubusercontent.com",
     "port": 443,
-    "bin": "/doroshenko-ai/camera/ESP32_HTTP_CLIENT_UART.ino.esp32.bin"
+    "bin": "/doroshenko-ai/camera/blob/main/ESP32_HTTP_CLIENT_UART.ino.esp32.bin"
 }
